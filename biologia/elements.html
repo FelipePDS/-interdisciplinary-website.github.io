@@ -1,0 +1,196 @@
+
+
+<!DOCTYPE HTML>
+<!--
+	Landed by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="pt-br">
+	<head>
+		<title>Biologia - Tuberculose</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+		<link rel="icon" href="images/bacterium-solid.svg">
+
+		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+		<script type="text/javascript">
+		  google.charts.load('current', {
+			'packages':['geochart'],
+			// Note: you will need to get a mapsApiKey for your project.
+			// See: https://developers.google.com/chart/interactive/docs/basic_load_libs#load-settings
+			'mapsApiKey': 'AIzaSyD-9tSrke72PouQMnMX-a7eZSW0jkFMBWY'
+		  });
+		  google.charts.setOnLoadCallback(drawRegionsMap);
+	
+		  function drawRegionsMap() {
+			var data = google.visualization.arrayToDataTable([
+				["Region Code", "Continent", "Infectados"],
+				["142", "Asia", 2300000],
+				["150", "Europe", 550000],
+				["019", "Americas", 500000],
+				["009", "Oceania", 5000],
+				["002", "Africa", 9500000]
+			]);
+	
+			var options = {
+				colorAxis: {colors: ['rgb(228, 76, 101)']},
+				backgroundColor: '#1c1d26',
+				datalessRegionColor: 'rgb(192, 193, 223)',
+				resolution: "continents"
+			};
+	
+			var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
+	
+			chart.draw(data, options);
+		  }
+		</script>
+
+		<script type="text/javascript">
+		google.charts.load('current', {'packages':['corechart']});
+		google.charts.setOnLoadCallback(drawChart);
+
+		function drawChart() {
+			var data = new google.visualization.DataTable();
+			
+			data.addColumn('number', 'Ano');
+			data.addColumn('number', 'Leste Europeu');
+			data.addColumn('number', 'America Latina');
+			data.addColumn('number', 'Leste Do Mediterrâneo');
+			data.addColumn('number', 'África');
+			data.addColumn('number', 'Sudoeste Asiático');
+
+			data.addRows([
+				[1982,  140, 145, 170, 75, 90],
+				[1986,  130, 120, 175, 60, 100],
+				[1990,  100, 100, 85, 100, 95],
+				[1996,  125, 110, 80, 180, 80],
+				[2000,  150, 100, 65, 225, 85]
+			]);
+
+			var options = {
+				width: 900,
+				height: 500,
+				//backgroundColor: '#1c1d26',
+				color: 'white'
+			};
+
+			var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+			chart.draw(data, options);
+		}
+		</script>
+
+		<style>
+			.curve {
+				color: white !important;
+			}
+		</style>
+
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a href="index.html">Biologia &nbsp;<i class="icon solid fa-dna"></i>&nbsp; Tuberculose</a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li>
+								<a href="#">Mais &nbsp;<i class="fas fa-caret-down"></i></a>
+								<ul>
+									<li><a href="left-sidebar.html">Origem Dados e Evolução</a></li>
+									<li><a href="right-sidebar.html">Tuberculose Em Red Dead 2</a></li>
+									<li><a href="no-sidebar.html">Principais Sintomas</a></li>
+									<li><a href="elements.html">Galeria e Estatisticas</a></li>
+								</ul>
+							</li>
+							<li><a href="sobre.html">Sobre</a></li>
+							<!--<li><a href="#" class="button primary">Sign Up</a></li>-->
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<div id="main" class="wrapper style1">
+					<div class="container">
+						<header class="major">
+							<h2>Dados e Estatísticas</h2>
+							<p>Apresentando alguns dados sobre a Tuberculose conforme a situação local ou o momento</p>
+							<div class="col-4 col-6-xsmall"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+						</header>
+
+						<!-- Text -->
+							<section>
+								<h3>Mortes no mundo</h3>
+								<p>A tuberculose é uma doença contagiosa muito antiga surgida em vilarejos muito desprotegidos e sem noções básicas da sua prevenção, sendo o contágio mais presente nessas áreas...</p>
+								<div class="col-12"><span class="image fit"><img src="images/vila2.jpg" alt="" /></span></div>
+
+								<h4>Quantidade de mortes</h4>
+								<p>A tuberculose é considerada uma das doenças mais mortais no mundo (mas hoje ela é muito mais controlada):</p>
+								<blockquote><p>Hoje tem em média de 1 bilhão de mortes por tuberculose. Ela foi muito mais presente no continente africano pois foi onde ela surgiu e onde tinha menos proteção contra ela.</p></blockquote>
+								<hr/>
+
+
+
+								<header>
+									<h3>Tuberculose e a AIDS</h3>
+									<p>O contágio de tuberculose se intensificou com o surgimento da AIDS no século XXI</p>
+								</header>
+								<blockquote><p>Com o surgimento da AIDS, o contágio de Tuberculose no século XXI se intensificou muito mais pois a AIDS prejudica a imunidade e deixa a pessoa muito mais vúlnerável à essa doença.</p></blockquote>
+								<header>
+									<pre><code>
+										<h4>Tuberculose no século XXI</h4>
+										<blockquote><p>Estimativa de adultos infectados com HIV e M. Tuberculosis junto.</p></blockquote>
+										<div class="col-12"> <div id="regions_div" style="width: 900px; height: 500px;"></div></div>
+
+										<h4 class="tendendicia-title">Tendências Múndiais</h4>
+										<blockquote><p>Tendências mundiais de contágio em milhares de pessoas (1980 - 2000).</p></blockquote>
+										<div class="col-12">><div id="curve_chart" class="curve" style="width: 900px; height: 500px"></div></div>
+									</code></pre>
+								</header>
+								<hr/>
+
+						<!-- Image -->
+							<section>
+								<h3>Imagens</h3>
+								<blockquote><p>Imagens sobre a doença, os bacilos</p></blockquote>
+								<div class="box alt">
+									<div class="row gtr-50 gtr-uniform">
+										<div class="col-12"><span class="image fit"><img src="images/pic07.jpg" alt="" /></span></div>
+										<div class="col-4 col-6-xsmall"><span class="image fit"><img src="images/bacilo1.jpg" alt="" /></span></div>
+										<div class="col-4 col-6-xsmall"><span class="image fit"><img src="images/bacilo3.jpg" alt="" /></span></div>
+										<div class="col-4 col-6-xsmall"><span class="image fit"><img src="images/bacilo2.jpg" alt="" /></span></div>
+										<div class="col-4 col-6-xsmall"><span class="image fit"><img src="images/bacilo4.jpg" alt="" /></span></div>
+										<div class="col-4 col-6-xsmall"><span class="image fit"><img src="images/bacilo6.jpg" alt="" /></span></div>
+										<div class="col-4 col-6-xsmall"><span class="image fit"><img src="images/bacilo5.jpg" alt="" /></span></div>
+									</div>
+								</div>
+					</div>
+				</div>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="copyright">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
