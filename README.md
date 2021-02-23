@@ -4,5 +4,5 @@
 
 <p align="center"><img src="https://github.com/FelipePDS/interdisciplinary-website.github.io/blob/main/assets/css/images/git-02.JPG"/></p>
 
-<p>&copy; FelipePDS &bull; <a href="https://felipepds.github.io/interdisciplinary-website.github.io
+<p align="center">&copy; FelipePDS &bull; <a href="https://felipepds.github.io/interdisciplinary-website.github.io
 ">Site here</a></p>
