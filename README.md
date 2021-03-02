@@ -11,11 +11,11 @@
 
 <table align="center">
   <tr align="center">
-    <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/" width=115/> <br> <sub>Me, Felipe Pinto</sub></td>
-    <td><img src="" width=115/> <br> <sub>Ana Carolyny</sub></td>
-    <td><img src="" width=115/> <br> <sub>Gabriel Feitosa</sub></td>
-    <td><img src="" width=115/> <br> <sub>Gabriel Fernando</sub></td>
-    <td><img src="" width=115/> <br> <sub>Giovani Dos Reis</sub></td>
+    <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/assets/css/images/ftFelipe" width=115/> <br> <sub>Me, Felipe Pinto</sub></td>
+    <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/assets/css/images/ftAna" width=115/> <br> <sub>Ana Carolyny</sub></td>
+    <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/assets/css/images/ftFeitosa" width=115/> <br> <sub>Gabriel Feitosa</sub></td>
+    <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/assets/css/images/ftFernando" width=115/> <br> <sub>Gabriel Fernando</sub></td>
+    <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/assets/css/images/ftGiovani" width=115/> <br> <sub>Giovani Dos Reis</sub></td>
   </tr>
 </table>
 
