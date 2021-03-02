@@ -5,7 +5,7 @@
 <p align="end"><blockquote>Project Status: concluded :heavy_check_mark:</blockquote></p>
 
 <h2 align="center">Description</h2>
-<p align="center">An interdisciplinary school website to compose the subjects of Development and Web Design, <a href="https://felipepds.github.io/the-redemption-plage.github.io/biologia/">Biology</a> (Tuberculose) and <a href="https://felipepds.github.io/the-redemption-plage.github.io/ed.fisica/">Physical Education</a> (Adaptable Sports) of ETEC MCM. :notebook:</p>
+<p align="center">An interdisciplinary school website to compose the subjects of Development and Web Design, <a href="https://felipepds.github.io/The-redemption-plage.github.io/biologia/">Biology</a> (Tuberculose) and <a href="https://felipepds.github.io/The-redemption-plage.github.io/ed.fisica/">Physical Education</a> (Adaptable Sports) of ETEC MCM. :notebook:</p>
 
-<p align="center">&copy; FelipePDS &bull; <a href="https://felipepds.github.io/the-redemption-plage.github.io
+<p align="center">&copy; FelipePDS &bull; <a href="https://felipepds.github.io/The-redemption-plage.github.io
 ">Site here</a></p>
