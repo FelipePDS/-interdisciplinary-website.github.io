@@ -19,5 +19,5 @@
 </table>
 
 <h2 align="center">License</h2>
-<p align="center"><a href="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/LICENSE.txt">MIT License</a> &nbsp;&bull;&nbsp; &copy; FelipePDS &nbsp;&bull;&nbsp; <a href="https://felipepds.github.io/The-redemption-plage.github.io
+<p align="center"><a href="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/LICENSE.txt">MIT License</a> &nbsp;&bull;&nbsp; &copy; FelipePDS &nbsp;&bull;&nbsp; <a href="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/LICENSE
 ">Site here</a></p>
