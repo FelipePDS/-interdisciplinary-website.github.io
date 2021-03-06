@@ -8,7 +8,6 @@
 <p align="center">An interdisciplinary school website to compose the subjects of Development and Web Design, <a href="https://felipepds.github.io/The-redemption-plage.github.io/biologia/">Biology</a> (Tuberculose) and <a href="https://felipepds.github.io/The-redemption-plage.github.io/ed.fisica/">Physical Education</a> (Adaptable Sports) of ETEC MCM.</p>
 
 <h2 align="center">Team</h2>
-
 <table align="center">
   <tr align="center">
     <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/assets/css/images/ftFelipe.jpg" width=115/> <br> <sub>Me, Felipe Pinto</sub></td>
@@ -19,5 +18,6 @@
   </tr>
 </table>
 
-<p align="center">&copy; FelipePDS &bull; <a href="https://felipepds.github.io/The-redemption-plage.github.io
+<h2 align="center">License</h2>
+<p align="center">MIT License &nbsp;&bull;&nbsp; &copy; FelipePDS &nbsp;&bull;&nbsp; <a href="https://felipepds.github.io/The-redemption-plage.github.io
 ">Site here</a></p>
