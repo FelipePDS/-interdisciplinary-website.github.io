@@ -10,7 +10,7 @@
 <h2 align="center">Team</h2>
 <table align="center">
   <tr align="center">
-    <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/assets/css/images/ftFelipe.jpg" width=115/> <br> <sub>Me, Felipe Pinto</sub></td>
+    <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/assets/css/images/ftFelipe.jpg" width=115 border-radius=50/> <br> <sub>Me, Felipe Pinto</sub></td>
     <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/assets/css/images/ftAna.jpg" width=115/> <br> <sub>Ana Carolyny</sub></td>
     <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/assets/css/images/ftFeitosa.jpg" width=115/> <br> <sub>Gabriel Feitosa</sub></td>
     <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/assets/css/images/ftFernando.jpg" width=115/> <br> <sub>Gabriel Fernando</sub></td>
