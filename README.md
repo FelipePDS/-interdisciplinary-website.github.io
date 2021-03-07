@@ -17,7 +17,7 @@
 <p align="center">An interdisciplinary school website to compose the subjects of Development and Web Design, <a href="https://felipepds.github.io/The-redemption-plage.github.io/biologia/">Biology</a> (Tuberculosis) and <a href="https://felipepds.github.io/The-redemption-plage.github.io/ed.fisica/">Physical Education</a> (Adaptable Sports) of ETEC MCM.</p> <br>
 
 <h2 align="center" id="clone">Clone The Project</h2>
-<p align="center">To do this, have git bash on your computer to perform the clone command</p>
+<p align="center">:octocat: To do this, have <a href="https://git-scm.com/downloads">git bash</a> on your computer to perform the clone command</p>
 
 ```bash
 # Clone project in a location
