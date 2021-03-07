@@ -34,9 +34,9 @@ $ git clone https://github.com/FelipePDS/The-redemption-plage.github.io.git
   HTML5 &bull; 
   CSS3 &bull; 
   Javascript <br>
-  Bootstrap &bull; 
-  Jquery &bull; 
-  Fontawesome
+  <a href="https://getbootstrap.com/">Bootstrap</a> &bull; 
+  <a href="https://jquery.com/">Jquery</a> &bull; 
+  <a href="https://fontawesome.com/">Fontawesome</a>
 </p>
 
 <br>
