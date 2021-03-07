@@ -1,4 +1,5 @@
-# <h2 align="center">:book: INTERDISCIPLINARY WEBSITE - 2°C - ETEC MCM :book:</h2>
+# <h2 align="center">The Redemption Plage</h2>
+<p align="center">:book: INTERDISCIPLINARY WEBSITE - 2°C - ETEC MCM :book:</p>
 
 <p align="center"><img src="https://github.com/FelipePDS/interdisciplinary-website.github.io/blob/main/assets/css/images/git-02.JPG"/></p>
 
