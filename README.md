@@ -6,10 +6,10 @@
 
 <h2 align="center">Summary</h2>
 <p align="center">
-  <a href="#description">Description</a> &nbsp; 
-  <a href="#clone">Clone The Project</a> &nbsp; 
-  <a href="#technologies">Technologies</a> &nbsp; 
-  <a href="#team">Team</a> &nbsp; 
+  <a href="#description">Description</a> &bull; 
+  <a href="#clone">Clone The Project</a> &bull; 
+  <a href="#technologies">Technologies</a> &bull; 
+  <a href="#team">Team</a> &bull; 
   <a href="#license">License</a>
 </p>
 
@@ -17,6 +17,13 @@
 <p align="center">An interdisciplinary school website to compose the subjects of Development and Web Design, <a href="https://felipepds.github.io/The-redemption-plage.github.io/biologia/">Biology</a> (Tuberculosis) and <a href="https://felipepds.github.io/The-redemption-plage.github.io/ed.fisica/">Physical Education</a> (Adaptable Sports) of ETEC MCM.</p>
 
 <h2 align="center" id="clone">Clone The Project</h2>
+
+```bash
+# Clone project in a location
+$ git clone
+
+# To access, open the first index.html file
+```
 
 <h2 align="center" id="technologies">Technologies</h2>
 
