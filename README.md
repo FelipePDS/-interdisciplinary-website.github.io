@@ -29,12 +29,12 @@ $ git clone https://github.com/FelipePDS/The-redemption-plage.github.io.git
 
 <h2 align="center" id="technologies">Technologies</h2>
 <p align="center">
-  &bull; HTML5 <br>
-  &bull; CSS3 <br>
-  &bull; Javascript <br>
-  &bull; Bootstrap <br>
-  &bull; Jquery <br>
-  &bull; Fontawesome
+  HTML5 &bull; 
+  CSS3 &bull; 
+  Javascript <br>
+  Bootstrap &bull; 
+  Jquery &bull; 
+  Fontawesome
 </p>
 
 <br>
