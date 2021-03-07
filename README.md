@@ -20,7 +20,7 @@
 
 ```bash
 # Clone project in a location
-$ git clone
+$ git clone https://github.com/FelipePDS/The-redemption-plage.github.io.git
 
 # To access, open the first index.html file
 ```
