@@ -40,7 +40,7 @@ $ git clone https://github.com/FelipePDS/The-redemption-plage.github.io.git
 
 <br>
 
-<h2 align="center" id="team">Team</h2>
+<h2 align="center" id="team">:fire: Team</h2>
 <table align="center">
   <tr align="center">
     <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/assets/css/images/ftFelipe.jpg" width=115 border-radius=50/> <br> <sub>Me, Felipe Pinto</sub></td>
