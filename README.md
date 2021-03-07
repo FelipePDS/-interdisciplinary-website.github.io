@@ -22,7 +22,7 @@
 # Clone project in a location
 $ git clone https://github.com/FelipePDS/The-redemption-plage.github.io.git
 
-# To access, open the first index.html file
+# To access, open the first index.html file in the folder "The-redemption-plage.github.io"
 ```
 
 <h2 align="center" id="technologies">Technologies</h2>
