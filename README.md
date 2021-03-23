@@ -15,7 +15,7 @@
 </p> <br>
 
 <h2 align="center" id="description">Description</h2>
-<p align="center">An interdisciplinary school website to compose the subjects of Development and Web Design, <a href="https://felipepds.github.io/The-redemption-plage.github.io/biologia/">Biology</a> (Tuberculosis) and <a href="https://felipepds.github.io/The-redemption-plage.github.io/ed.fisica/">Physical Education</a> (Adaptable Sports) of ETEC MCM.</p> <br>
+<p align="center">An interdisciplinary school website to compose the subjects of Development and Web Design, <a href="https://felipepds.github.io/The-redemption-plage/biologia/">Biology</a> (Tuberculosis) and <a href="https://felipepds.github.io/The-redemption-plage/ed.fisica/">Physical Education</a> (Adaptable Sports) of ETEC MCM.</p> <br>
 
 <h2 align="center" id="clone">Clone The Project</h2>
 <p align="center">:octocat: To do this, have <a href="https://git-scm.com/downloads">git bash</a> on your computer to perform the clone command</p>
@@ -53,5 +53,5 @@ $ git clone https://github.com/FelipePDS/The-redemption-plage.github.io.git
 </table> <br>
 
 <h2 align="center" id="license">License</h2>
-<p align="center"><a href="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/LICENSE.txt">MIT License</a> &nbsp;&bull;&nbsp; &copy; FelipePDS &nbsp;&bull;&nbsp; <a href="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/LICENSE
+<p align="center"><a href="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/LICENSE.txt">MIT License</a> &nbsp;&bull;&nbsp; &copy; FelipePDS &nbsp;&bull;&nbsp; <a href="https://felipepds.github.io/The-redemption-plage
 ">Site here</a></p>
