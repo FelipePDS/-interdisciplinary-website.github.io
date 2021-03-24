@@ -14,11 +14,12 @@
   <a href="#clone">Clone The Project</a> &bull; 
   <a href="#technologies">Technologies</a> &bull; 
   <a href="#team">Team</a> &bull; 
+  <a href="#author">Author</a> &bull; 
   <a href="#license">License</a>
 </p> <br>
 
 <h2 align="center" id="description">Description</h2>
-<p align="center">An interdisciplinary school website to compose the subjects of Development and Web Design, <a href="https://felipepds.github.io/The-redemption-plage/biologia/">Biology</a> (Tuberculosis) and <a href="https://felipepds.github.io/The-redemption-plage/ed.fisica/">Physical Education</a> (Adaptable Sports) of ETEC MCM.</p> <br>
+<p align="center">An interdisciplinary school website to compose the subjects of Development and Web Design, <a href="https://felipepds.github.io/The-redemption-plage/biologia/">Biology</a> :microscope: (Tuberculosis) and <a href="https://felipepds.github.io/The-redemption-plage/ed.fisica/">Physical Education</a> :basketball: (Adaptable Sports) of ETEC MCM.</p> <br>
 
 <h2 align="center" id="clone">Clone The Project</h2>
 <p align="center">:octocat: To do this, have <a href="https://git-scm.com/downloads">git bash</a> on your computer to perform the clone command</p>
@@ -54,6 +55,9 @@ $ git clone https://github.com/FelipePDS/The-redemption-plage.git
     <td><img src="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/assets/css/images/ftGiovani.jpg" width=115/> <br> <sub>Giovani Dos Reis</sub></td>
   </tr>
 </table> <br>
+
+<h2 align="center" id="author">Author</h2>
+<p align="center">by FelipePDS <img src="https://img.shields.io/static/v1?message=Linkedin&color=0A66C2&style=flat&logo=linkedin"/></p>
 
 <h2 align="center" id="license">License</h2>
 <p align="center"><a href="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/LICENSE.txt">MIT License</a> &nbsp;&bull;&nbsp; &copy; FelipePDS &nbsp;&bull;&nbsp; <a href="https://felipepds.github.io/The-redemption-plage
