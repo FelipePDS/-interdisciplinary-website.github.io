@@ -1,4 +1,7 @@
 # <h2 align="center">THE REDEMPTION PLAGE</h2>
+
+<p align="center"><img src="https://img.shields.io/static/v1?label=Bootstrap&message=v4.0.0&color=7952B3&style=flat&logo=bootstrap"/></p>
+
 <p align="center">:book: INTERDISCIPLINARY WEBSITE &bull; 2°C &bull; ETEC MCM :book:</p>
 
 <p align="center"><img src="https://github.com/FelipePDS/interdisciplinary-website.github.io/blob/main/assets/css/images/git-02.JPG"/></p>
