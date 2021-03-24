@@ -1,8 +1,8 @@
 # <h2 align="center">THE REDEMPTION PLAGE</h2>
 
-<p align="center"><img src="https://img.shields.io/github/license/FelipePDS/The-redemption-plage"/> <img src="https://img.shields.io/static/v1?label=Bootstrap&message=v4.0.0&color=7952B3&style=flat&logo=bootstrap"/> <a href="https://felipepds.github.io/The-redemption-plage"><img src="https://img.shields.io/static/v1?label=Site&message=The-redemption-plage&color=EE0000&style=flat&logo=redhat"/></a></p>
+<p align="center"><a href="https://github.com/FelipePDS/The-redemption-plage/blob/main/LICENSE"><img src="https://img.shields.io/github/license/FelipePDS/The-redemption-plage"/></a> <img src="https://img.shields.io/static/v1?label=Bootstrap&message=v4.0.0&color=7952B3&style=flat&logo=bootstrap"/> <a href="https://felipepds.github.io/The-redemption-plage"><img src="https://img.shields.io/static/v1?label=Site&message=The-redemption-plage&color=EE0000&style=flat&logo=redhat"/></a></p>
 
-<p align="center">:book: INTERDISCIPLINARY WEBSITE &bull; 2°C &bull; ETEC MCM :book:</p>
+<p align="center">INTERDISCIPLINARY WEBSITE &bull; 2°C &bull; ETEC MCM</p>
 
 <p align="center"><img src="https://github.com/FelipePDS/interdisciplinary-website.github.io/blob/main/assets/css/images/git-02.JPG"/></p>
 
