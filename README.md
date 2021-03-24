@@ -58,8 +58,7 @@ $ git clone https://github.com/FelipePDS/The-redemption-plage.git
 
 <h2 align="center" id="author">Author</h2>
 <p align="center">by FelipePDS</p>
-<p align="center"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=flat&logo=linkedin"/> <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=flat&logo=twitter
-"></img></p>
+<p align="center"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=flat&logo=linkedin"/> <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=flat&logo=twitter"></img></p>
 
 <h2 align="center" id="license">License</h2>
 <p align="center"><a href="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/LICENSE.txt">MIT License</a> &nbsp;&bull;&nbsp; &copy; FelipePDS &nbsp;&bull;&nbsp; <a href="https://felipepds.github.io/The-redemption-plage
