@@ -1,6 +1,6 @@
 # <h2 align="center">THE REDEMPTION PLAGE</h2>
 
-<p align="center"><img src="https://img.shields.io/github/license/FelipePDS/The-redemption-plage"/> <img src="https://img.shields.io/static/v1?label=Bootstrap&message=v4.0.0&color=7952B3&style=flat&logo=bootstrap"/> <a href="https://felipepds.github.io/The-redemption-plage"><img src="https://img.shields.io/static/v1?label=Site&message=The-Redemption-Plage&color=EE0000&style=flat&logo=redhat"/></a></p>
+<p align="center"><img src="https://img.shields.io/github/license/FelipePDS/The-redemption-plage"/> <img src="https://img.shields.io/static/v1?label=Bootstrap&message=v4.0.0&color=7952B3&style=flat&logo=bootstrap"/> <a href="https://felipepds.github.io/The-redemption-plage"><img src="https://img.shields.io/static/v1?label=Site&message=The-redemption-plage&color=EE0000&style=flat&logo=redhat"/></a></p>
 
 <p align="center">:book: INTERDISCIPLINARY WEBSITE &bull; 2°C &bull; ETEC MCM :book:</p>
 
@@ -58,7 +58,7 @@ $ git clone https://github.com/FelipePDS/The-redemption-plage.git
 
 <h2 align="center" id="author">Author</h2>
 <p align="center">by FelipePDS</p>
-<p align="center"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=flat&logo=linkedin"/> <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FFelipePDS%2FThe-redemption-plage
+<p align="center"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=flat&logo=linkedin"/> <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=flat&logo=twitter
 "></img></p>
 
 <h2 align="center" id="license">License</h2>
