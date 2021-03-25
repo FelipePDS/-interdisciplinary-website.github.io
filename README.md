@@ -1,6 +1,6 @@
 # <h2 align="center">THE REDEMPTION PLAGE</h2>
 
-<p align="center"><a href="https://github.com/FelipePDS/The-redemption-plage/blob/main/LICENSE"><img src="https://img.shields.io/github/license/FelipePDS/The-redemption-plage"/></a> <img src="https://img.shields.io/static/v1?label=Bootstrap&message=v4.0.0&color=7952B3&style=flat&logo=bootstrap"/> <a href="https://felipepds.github.io/The-redemption-plage"><img src="https://img.shields.io/static/v1?label=+&message=The+redemption+plage&color=EA4335&style=flat&logo=redhat"/></a></p>
+<p align="center"><a href="https://github.com/FelipePDS/The-redemption-plage/blob/main/LICENSE"><img src="https://img.shields.io/github/license/FelipePDS/The-redemption-plage"/></a> <img src="https://img.shields.io/static/v1?label=Bootstrap&message=v4.0.0&color=7952B3&style=flat&logo=bootstrap&logoColor=white"/> <a href="https://felipepds.github.io/The-redemption-plage"><img src="https://img.shields.io/static/v1?label=+&message=The+redemption+plage&color=EA4335&style=flat&logo=redhat"/></a></p>
 
 <p align="center">INTERDISCIPLINARY WEBSITE &bull; 2°C &bull; ETEC MCM</p>
 
@@ -58,7 +58,7 @@ $ git clone https://github.com/FelipePDS/The-redemption-plage.git
 
 <h2 align="center" id="author">Author</h2>
 <p align="center">by <a href="https://felipepds.github.io/felipepds-resume/">FelipePDS</a></p>
-<p align="center"><a href="https://www.linkedin.com/in/felipe-p-da-silva-a55b891ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BiErPy3g7Q1KGOaD%2BsGw%2Fpg%3D%3D"><img src="https://img.shields.io/static/v1?label=Linkedin&message=Felipe+P.+Da+Silva&color=0A66C2&style=flat&logo=linkedin"/></a> <a href="https://twitter.com/FelipePintoDaS1"><img src="https://img.shields.io/static/v1?label=Twitter&message=@FelipePintoDaS1&color=1DA1F2&style=flat&logo=twitter"/></a> <img src="https://img.shields.io/static/v1?label=Gmail&message=felipepdasilva66@gmail.com&color=EA4335&style=flat&logo=gmail"/></p>
+<p align="center"><a href="https://www.linkedin.com/in/felipe-p-da-silva-a55b891ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BiErPy3g7Q1KGOaD%2BsGw%2Fpg%3D%3D"><img src="https://img.shields.io/static/v1?label=+&message=Felipe+P.+Da+Silva&color=0A66C2&style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/FelipePintoDaS1"><img src="https://img.shields.io/static/v1?label=+&message=@FelipePintoDaS1&color=1DA1F2&style=flat&logo=twitter&logoColor=white"/></a> <img src="https://img.shields.io/static/v1?label=+&message=felipepdasilva66@gmail.com&color=EA4335&style=flat&logo=gmail&logoColor=white"/></p>
 
 <h2 align="center" id="license">License</h2>
 <p align="center"><a href="https://github.com/FelipePDS/The-redemption-plage.github.io/blob/main/LICENSE.txt">MIT License</a> &nbsp;&bull;&nbsp; &copy; FelipePDS &nbsp;&bull;&nbsp; <a href="https://felipepds.github.io/The-redemption-plage
