@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#description">Description</a> &bull; 
   <a href="#clone">Clone The Project</a> &bull; 
-  <a href="#technologies">Technologies</a> &bull; 
+  <a href="#technologies">Technologies</a><br>
   <a href="#team">Team</a> &bull; 
   <a href="#author">Author</a> &bull; 
   <a href="#license">License</a>
