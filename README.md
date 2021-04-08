@@ -26,9 +26,9 @@
 
 ```bash
 # Clone project in a location
-$ git clone https://github.com/FelipePDS/The-redemption-plage.git
+$ git clone https://github.com/FelipePDS/redemption-plage.git
 
-# To access, open the first index.html file in the folder "The-redemption-plage"
+# To access, open the first index.html file in the folder "redemption-plage"
 ```
 
 <br>
