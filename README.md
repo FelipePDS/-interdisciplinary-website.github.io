@@ -19,7 +19,7 @@
 </p> <br>
 
 <h2 align="center" id="description">Description</h2>
-<p align="center">An interdisciplinary school website to compose the subjects of Development and Web Design, <a href="https://felipepds.github.io/The-redemption-plage/biologia/">Biology</a> :microscope: (Tuberculosis) and <a href="https://felipepds.github.io/The-redemption-plage/ed.fisica/">Physical Education</a> :basketball: (Adaptable Sports) of ETEC MCM.</p> <br>
+<p align="center">An interdisciplinary school website to compose the subjects of Development and Web Design, <a href="https://felipepds.github.io/redemption-plage/biologia/">Biology</a> :microscope: (Tuberculosis) and <a href="https://felipepds.github.io/redemption-plage/ed.fisica/">Physical Education</a> :basketball: (Adaptable Sports) of ETEC MCM.</p> <br>
 
 <h2 align="center" id="clone">Clone The Project</h2>
 <p align="center">:octocat: To do this, have <a href="https://git-scm.com/downloads">git bash</a> on your computer to perform the clone command</p>
